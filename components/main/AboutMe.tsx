@@ -39,11 +39,7 @@ const AboutMe = () => {
               >
                 {" "}
                
-A proactive and goal-oriented professional with a solid background in full-stack development and software engineering. Proficient in data structures and algorithms, I possess the expertise to architect and develop high-quality applications. My commitment to excellence drives me to continually enhance my skills and contribute to innovative projects in the tech industry.
-<br/>
-Eager to explore the intersection of technology and business, I am enthusiastic about delving into the business aspects of application development. I thrive on challenges and am dedicated to delivering tangible outcomes through my diverse skill set and unwavering dedication.
-<br/>
-Seeking opportunities to leverage my expertise and drive impactful results in a challenging role within the tech industry.
+Proactive full-stack developer skilled in data structures, algorithms, and PLM.<br/> Passionate about merging technology with business to drive innovation and deliver tangible results. With a solid background in software engineering, committed to excellence in every project undertaken. <br/>Eager to explore the intersection of tech and business, seeking impactful roles to leverage expertise and drive meaningful change in the dynamic tech landscape. Ready to take on challenges and deliver comprehensive solutions that make a difference in the industry.
               </motion.div>
             </div>
           </div>

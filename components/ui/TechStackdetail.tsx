@@ -1,3 +1,6 @@
+import { SiDotnet } from "react-icons/si";
+import { FaAws } from "react-icons/fa";
+import { SiMicrosoftazure } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
 import {  TbBrandNextjs } from "react-icons/tb";
 import { SiTailwindcss } from "react-icons/si";
@@ -43,6 +46,7 @@ export const Programming:Generictype[]=[{
   children:<TbBrandCpp className="text-3xl  font-normal bg-blue-700 text-white"></TbBrandCpp>,
   name:'C++'
  },
+                                        { id:12, children:<SiTypescript className="text-3xl  font-normal text-blue-500 bg-black" />, name:'TypeScript' },
 ]
 
 export const Tools:Generictype[]=[{
@@ -77,7 +81,7 @@ export  const Database:Generictype[]=[{
     id:9,
     children:<SiTailwindcss className="text-3xl  font-normal text-cyan-500 "></SiTailwindcss>,
     name:"Tailwind"
-  },]
+  },{ id:13, children:<TbBrandNextjs className="text-3xl  font-normal text-white" />, name:"Next.js" },]
   
   export const Backend:Generictype[]=[{
     id:10,
@@ -87,4 +91,14 @@ export  const Database:Generictype[]=[{
     id:11,
     children:<SiExpress className="text-3xl  font-normal text-black"></SiExpress>,
     name:"Express.js"
-  },]
+  },{ id:14, children:<SiDotnet className="text-3xl  font-normal text-purple-600" />, name:".NET" },]
+
+export const Cloud:Generictype[]=[{
+    id:15,
+    children:<FaAws className="text-3xl  font-normal text-orange-400" />,
+    name:"AWS"
+},{
+    id:16,
+    children:<SiMicrosoftazure className="text-3xl  font-normal text-blue-500" />,
+    name:"Azure"
+},]

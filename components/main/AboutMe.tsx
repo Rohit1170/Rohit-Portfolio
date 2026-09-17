@@ -39,7 +39,7 @@ const AboutMe = () => {
               >
                 {" "}
                
-Proactive full-stack developer skilled in data structures, algorithms, and PLM.<br/> Passionate about merging technology with business to drive innovation and deliver tangible results. With a solid background in software engineering, committed to excellence in every project undertaken. <br/>Eager to explore the intersection of tech and business, seeking impactful roles to leverage expertise and drive meaningful change in the dynamic tech landscape. Ready to take on challenges and deliver comprehensive solutions that make a difference in the industry.
+Full-Stack Software Engineer with 2+ years across enterprise systems and independent product development. I solo-built and scaled SIPA Nutrition, a live D2C e-commerce platform, to 1,600+ users — owning everything from architecture to Razorpay payment integration to production maintenance. 450+ DSA problems solved. Currently exploring remote and global full-stack roles.
               </motion.div>
             </div>
           </div>

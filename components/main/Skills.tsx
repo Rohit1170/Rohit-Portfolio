@@ -6,6 +6,7 @@ import {
   Database,
   Tools,
   Programming,
+  Cloud,
 } from "../ui/TechStackdetail";
 import { motion } from "framer-motion";
 import { Meteors } from "../ui/meteors";
@@ -56,6 +57,7 @@ const Skills = () => {
      <Technologies name="Backend" Domain={Backend}/>
       <Technologies name="Database" Domain={Database}/>
       <Technologies name="Tools" Domain={Tools}></Technologies>
+      <Technologies name="Cloud" Domain={Cloud}/>
      
     </motion.div>
   );
